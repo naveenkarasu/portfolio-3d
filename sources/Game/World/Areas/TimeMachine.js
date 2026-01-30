@@ -24,7 +24,16 @@ export class TimeMachine extends Area
             InteractivePoints.STATE_CONCEALED,
             () =>
             {
-                window.open('https://2019.bruno-simon.com')
+                // Show under construction notification
+                const html = /* html */`
+                    <div class="top">
+                        <div class="title">🚧 Under Construction</div>
+                    </div>
+                    <div class="bottom">
+                        <div class="description">Time Machine is being built. Check back soon!</div>
+                    </div>
+                `
+                this.game.notifications.show(html, 'info', 4)
             },
             () =>
             {
