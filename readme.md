@@ -1,8 +1,8 @@
 # Portfolio 3D
 
-![image info](./static/social/share-image.png)
-
 Interactive 3D portfolio built with Three.js WebGPU, Vite, and Rapier physics — featuring explorable areas, mini-games, and dynamic weather systems.
+
+**Live:** https://naveenkarasu.github.io/portfolio-3d/
 
 ## Setup
 
