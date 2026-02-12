@@ -25,7 +25,7 @@ export class SocialArea extends Area
 
         this.setLinks()
         this.setFans()
-        this.setOnlyFans()
+        // this.setOnlyFans()
         this.setStatue()
         // this.setFWA()
         this.setAchievement()

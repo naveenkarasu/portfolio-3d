@@ -1,12 +1,14 @@
-# Folio 2025
+# Portfolio 3D
 
 ![image info](./static/social/share-image.png)
+
+Interactive 3D portfolio built with Three.js WebGPU, Vite, and Rapier physics — featuring explorable areas, mini-games, and dynamic weather systems.
 
 ## Setup
 
 Create `.env` file based on `.env.example`
 
-Download and install [Node.js](https://nodejs.org/en/download/) then run this followed commands:
+Download and install [Node.js](https://nodejs.org/en/download/) then run the following commands:
 
 ``` bash
 # Install dependencies
@@ -19,7 +21,25 @@ npm run dev
 npm run build
 ```
 
-## Game loop
+## Areas
+
+| Area | Status |
+|---|---|
+| Projects | Needs updated images and links |
+| Lab | Needs more content |
+| Career | Needs reconstruction |
+| Social | Needs a few updates |
+| Achievements | Complete |
+| Behind the Scene | Complete |
+| Bowling | Complete |
+| Circuit | Complete |
+| Toilet | Complete |
+| Cookie | Complete |
+| Altar | Complete |
+| Time Machine | Complete (destination page under construction) |
+| Whispers | Under construction (requires server backend) |
+
+## Game Loop
 
 #### 0
 
